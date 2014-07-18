@@ -1,0 +1,23 @@
+h1 {
+
+	color: rgb(33,127,61);
+
+}
+			
+.headline{ 
+	font-family: Georgia;
+	text-align: center;
+}
+			
+p{ 
+	line-height: 19px;
+}
+
+a:link{
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+a:hover{
+	text-decoration: underline;
+}
